@@ -18,7 +18,8 @@ I'm a polyglot engineer with a full-stack skillset, passionate about crafting ex
 | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | **HackerWatch**                   | A sleek and intuitive Hacker News client for watchOS, designed to keep you connected to the pulse of the tech community right from your wrist.                                                     | [Download](https://apps.apple.com/us/app/hackerwatch-hacker-news/id6479969061)     |
 | **The Pocket Monster Index**      | Gotta catch 'em all! The Pocket Monster Index is a comprehensive Pokedex app for watchOS, putting the world of Pokemon at your fingertips.                                                         | [Download](https://testflight.apple.com/join/2L4JpLEW) |
-| **The Tiny Met** | Explore the wonders of The Metropolitan Museum of Art with this immersive watchOS app. Discover masterpieces and uncover the stories behind the art, all from the convenience of your Apple Watch. | [Download](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
+| **The Tiny Met**                  | Explore the wonders of The Metropolitan Museum of Art with this immersive watchOS app. Discover masterpieces and uncover the stories behind the art, all from the convenience of your Apple Watch. | [Download](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
+| **Today**                         | A **private, free, no-frills** task manager that keeps things simple. No accounts, no tracking—your data **stays local and resets daily** for a fresh start every day.                              | [Try it](https://www.today.dakota.codes/) |
 
 
 
