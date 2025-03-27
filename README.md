@@ -1,7 +1,7 @@
 # Hey, I'm Dakota! 👋
 
 ### Currently
-- Principal Technical Consultant @ EQengineered
+- Director of Engineering @ EQengineered
 
 I'm a polyglot engineer with a full-stack skillset, passionate about crafting exceptional software experiences across a diverse range of platforms.
 
