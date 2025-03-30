@@ -2,6 +2,7 @@
 
 ### Currently
 - Director of Engineering @ EQengineered
+- Founder / Indie Dev @ [MadWatch](https://www.madwatch.dev)
 
 I'm a polyglot engineer with a full-stack skillset, passionate about crafting exceptional software experiences across a diverse range of platforms.
 
