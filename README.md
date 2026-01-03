@@ -5,14 +5,14 @@
 - Founder / Indie Dev @ [MadWatch](https://www.madwatch.dev)
 - 🤫 Breaking ground @ [reasoning.software](https://reasoning.software)
 
-I'm a polyglot engineer with a full-stack skillset, passionate about crafting exceptional software experiences across a diverse range of platforms.
+Engineering leader building AI agents, developer tools, and apps across Apple platforms. I believe in local-first software, open source, and building things that respect users.
 
 ## Expertise
 
-- **Native Mobile Development:** iOS, Android
-- **Cross-Platform Mobile Development:** React Native, Flutter
-- **Web Development:** React, Angular
-- **Apple Platforms:** watchOS, visionOS, macOS
+- **AI Agents & Developer Tools:** Agent frameworks, CLI tooling, npx packages
+- **Apple Platforms:** watchOS, visionOS, macOS, iOS
+- **Mobile Development:** Swift, React Native, Flutter
+- **Web Development:** React, TypeScript
 
 ## Featured Projects
 
