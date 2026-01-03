@@ -3,6 +3,7 @@
 ### Currently
 - Director of Engineering, Applied AI @ EQengineered
 - Founder / Indie Dev @ [MadWatch](https://www.madwatch.dev)
+- 🤫 Breaking ground @ [reasoning.software](https://reasoning.software)
 
 I'm a polyglot engineer with a full-stack skillset, passionate about crafting exceptional software experiences across a diverse range of platforms.
 
@@ -21,6 +22,10 @@ I'm a polyglot engineer with a full-stack skillset, passionate about crafting ex
 | **The Pocket Monster Index** | A comprehensive **Pokédex app for watchOS**, crafted for quick lookups and nostalgic delight. | [TestFlight →](https://testflight.apple.com/join/2L4JpLEW) |
 | **The Tiny Met** | Explore the **Metropolitan Museum of Art** from your Apple Watch. Discover artworks and the stories behind them, powered by The Met's open API. | [App Store →](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
 | **Today** | A free, local-first productivity suite in the browser. Includes tasks, notes, RAG search on PDFs, and more. **No accounts, no tracking — just you.** | [Try It →](https://www.today.dakota.codes/) |
+| **Build An Agent Workshop** | Interactive workshop for building AI agents. Also available as an npx package. | [Website →](https://www.buildanagentworkshop.com) |
+| **ted-mosby** | An architectural wiki generating agent to help document codebases. | [npm →](https://www.npmjs.com/package/ted-mosby) |
+| **Daily Quest** | Free habit tracking software. Local-first OR sign up for cloud sync. | [Try It →](https://habit.software) |
+| **Skills** | Agent skills repository for extending AI agent capabilities. | [GitHub →](https://github.com/GhostScientist/skills) |
 
 
 
@@ -30,6 +35,7 @@ I'm always excited to collaborate on interesting projects, share knowledge, and 
 
 - [LinkedIn](https://www.linkedin.com/in/dakota-kim/)
 - [Personal Website](https://www.dakotakim.com)
+- [Blog](https://dakota.codes)
 
 Looking forward to building amazing things together! 🚀
 
