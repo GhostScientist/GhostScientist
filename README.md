@@ -21,7 +21,7 @@ Engineering leader building AI agents, developer tools, and apps across Apple pl
 | **HackerWatch** | A sleek and intuitive Hacker News client for **watchOS**, designed to keep you connected to the tech community right from your wrist. | [App Store →](https://apps.apple.com/us/app/hackerwatch-hacker-news/id6479969061) |
 | **The Pocket Monster Index** | A comprehensive **Pokédex app for watchOS**, crafted for quick lookups and nostalgic delight. | [TestFlight →](https://testflight.apple.com/join/2L4JpLEW) |
 | **The Tiny Met** | Explore the **Metropolitan Museum of Art** from your Apple Watch. Discover artworks and the stories behind them, powered by The Met's open API. | [App Store →](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
-| **Today** | A free, local-first productivity suite in the browser. Includes tasks, notes, RAG search on PDFs, and more. **No accounts, no tracking — just you.** | [Try It →](https://www.today.dakota.codes/) |
+| **The Big Idea** | A free, local-first productivity suite in the browser. Includes tasks, notes, RAG search on PDFs, and more. **No accounts, no tracking — just you.** | [Try It →](https://www.thebigidea.app/) |
 | **Build An Agent Workshop** | Interactive workshop for building AI agents. Also available as an npx package. | [Website →](https://www.buildanagentworkshop.com) |
 | **ted-mosby** | An architectural wiki generating agent to help document codebases. | [npm →](https://www.npmjs.com/package/ted-mosby) |
 | **Daily Quest** | Free habit tracking software. Local-first OR sign up for cloud sync. | [Try It →](https://habit.software) |
