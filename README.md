@@ -23,7 +23,7 @@ Engineering leader building AI agents, developer tools, and apps across Apple pl
 | **The Tiny Met** | Explore the **Metropolitan Museum of Art** from your Apple Watch. Discover artworks and the stories behind them, powered by The Met's open API. | [App Store →](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
 | **The Big Idea** | A free, local-first productivity suite in the browser. Includes tasks, notes, RAG search on PDFs, and more. **No accounts, no tracking — just you.** | [Try It →](https://www.thebigidea.app/) |
 | **Build An Agent Workshop** | Interactive workshop for building AI agents. Also available as an npx package. | [Website →](https://www.buildanagentworkshop.com) |
-| **semanticwikiy** | An architectural wiki generating agent to help document codebases. | [npm →](https://www.npmjs.com/package/semanticwiki) |
+| **semanticwiki** | An architectural wiki generating agent to help document codebases. | [npm →](https://www.npmjs.com/package/semanticwiki) |
 | **Daily Quest** | Free habit tracking software. Local-first OR sign up for cloud sync. | [Try It →](https://habit.software) |
 | **Skills** | Agent skills repository for extending AI agent capabilities. | [GitHub →](https://github.com/GhostScientist/skills) |
 
