@@ -2,8 +2,8 @@
 
 ### Currently
 - Director of Engineering, Applied AI @ EQengineered
-- Founder / Indie Dev @ [MadWatch](https://www.madwatch.dev)
-- 🤫 Breaking ground @ [reasoning.software](https://reasoning.software)
+- Founder / Indie Dev @ [MadWatch (product + shipping)](https://www.madwatch.dev)
+- Founding Researcher @ [reasoning.software (independent applied research)](https://reasoning.software)
 
 Engineering leader building AI agents, developer tools, and apps across Apple platforms. I believe in local-first software, open source, and building things that respect users.
 
