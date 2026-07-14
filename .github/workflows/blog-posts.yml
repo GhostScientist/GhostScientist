@@ -1,0 +1,39 @@
+name: Update recent writing
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      # dakota.codes doesn't advertise its feed URL, so probe common paths
+      # and skip the update (with a warning) if none serve RSS/Atom.
+      - name: Find the dakota.codes feed
+        id: feed
+        run: |
+          for path in rss.xml feed.xml atom.xml index.xml feed rss; do
+            url="https://dakota.codes/$path"
+            if curl -sfL --max-time 20 "$url" | head -c 2048 | grep -qiE '<(rss|feed)[ >]'; then
+              echo "url=$url" >> "$GITHUB_OUTPUT"
+              echo "Found feed at $url"
+              exit 0
+            fi
+          done
+          echo "::warning::No RSS/Atom feed found at dakota.codes — skipping README update."
+
+      - name: Checkout
+        if: steps.feed.outputs.url != ''
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts into README
+        if: steps.feed.outputs.url != ''
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: ${{ steps.feed.outputs.url }}
+          max_post_count: 5

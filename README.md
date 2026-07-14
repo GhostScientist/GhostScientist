@@ -1,54 +1,56 @@
 # Hey, I'm Dakota! 👋
 
-### Currently
-- Director of Engineering, Applied AI @ EQengineered
-- Founder / Indie Dev @ [MadWatch](https://www.madwatch.dev) (product + shipping)
-- Founding Researcher @ [reasoning.software](https://reasoning.software) (independent applied research)
+*Building interfaces for intelligent software, tools, and sometimes robots.*
 
-Engineering leader building AI agents, developer tools, and apps across Apple platforms. I believe in local-first software, open source, and building things that respect users.
+[Website](https://www.dakotakim.com) · [Blog](https://dakota.codes) · [LinkedIn](https://www.linkedin.com/in/dakota-kim/)
 
-## Expertise
+## Now
 
-- **AI Agents & Developer Tools:** Agent frameworks, CLI tooling, npx packages
-- **Apple Platforms:** watchOS, visionOS, macOS, iOS
-- **Mobile Development:** Swift, React Native, Flutter
-- **Web Development:** React, TypeScript
+- **Director of Engineering, Applied AI** @ EQengineered
+- **Founder / Indie Dev** @ [MadWatch](https://www.madwatch.dev) — product + shipping
+- **Founding Researcher** @ [reasoning.software](https://reasoning.software) — independent applied research
 
-## Featured Projects
+These days that means agent tooling and developer experience by day — and experiments in conversational robotics and local-first software the rest of the time.
 
-| Project | Description | Try It |
-|--------|-------------|--------|
-| **HackerWatch** | A sleek and intuitive Hacker News client for **watchOS**, designed to keep you connected to the tech community right from your wrist. | [App Store →](https://apps.apple.com/us/app/hackerwatch-hacker-news/id6479969061) |
-| **The Pocket Monster Index** | A comprehensive **Pokédex app for watchOS**, crafted for quick lookups and nostalgic delight. | [TestFlight →](https://testflight.apple.com/join/2L4JpLEW) |
-| **The Tiny Met** | Explore the **Metropolitan Museum of Art** from your Apple Watch. Discover artworks and the stories behind them, powered by The Met's open API. | [App Store →](https://apps.apple.com/us/app/the-tiny-met/id6736908878) |
-| **The Big Idea** | A free, local-first productivity suite in the browser. Includes tasks, notes, RAG search on PDFs, and more. **No accounts, no tracking — just you.** | [Try It →](https://www.thebigidea.app/) |
-| **Build An Agent Workshop** | Interactive workshop for building AI agents. Also available as an npx package. | [Website →](https://www.buildanagentworkshop.com) |
-| **semanticwiki** | An architectural wiki generating agent to help document codebases. | [npm →](https://www.npmjs.com/package/semanticwiki) |
-| **Daily Quest** | Free habit tracking software. Local-first OR sign up for cloud sync. | [Try It →](https://habit.software) |
-| **Skills** | Agent skills repository for extending AI agent capabilities. | [GitHub →](https://github.com/GhostScientist/skills) |
+## What I build
 
+I work across three threads, and the interesting stuff usually happens where they overlap:
 
+- **AI agents & developer tools** — agent frameworks, CLI tooling, workshops, and applied research on how agents reason about and document the world around them.
+- **Apple platforms** — indie apps for watchOS, visionOS, iOS, and macOS. I have a soft spot for the smallest screen in the lineup.
+- **Local-first web** — privacy-first software that runs entirely in your browser: no accounts, no tracking, no server between you and your data.
 
-## Let's Connect!
+## Featured projects
 
-I'm always excited to collaborate on interesting projects, share knowledge, and learn from others in the dev community. Feel free to reach out and connect with me:
+### 🤖 AI agents & developer tools
 
-- [LinkedIn](https://www.linkedin.com/in/dakota-kim/)
-- [Personal Website](https://www.dakotakim.com)
-- [Blog](https://dakota.codes)
+- **[build-an-agent](https://github.com/GhostScientist/build-an-agent)** — Step right up! Build your own agent. An interactive workshop, also available as an npx package. → [buildanagentworkshop.com](https://www.buildanagentworkshop.com)
+- **[semanticwiki](https://github.com/GhostScientist/semanticwiki)** — An architectural-wiki-generating agent that helps document codebases. → [npm](https://www.npmjs.com/package/semanticwiki)
+- **[claude-agents-sdk-swift](https://github.com/GhostScientist/claude-agents-sdk-swift)** — The Claude Agent SDK in Swift — bringing agents to Apple platforms.
+- **[openclaw](https://github.com/GhostScientist/openclaw)** — Your own personal AI assistant. Any OS. Any platform. The lobster way. 🦞
+- **[skills](https://github.com/GhostScientist/skills)** — A repository of agent skills for extending AI agent capabilities.
+- **The Knowledge Department** — Coming soon. <!-- TODO(Dakota): add link + one-line description -->
 
-Looking forward to building amazing things together! 🚀
+### ⌚ Apple platforms
 
-<!--
-**GhostScientist/GhostScientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **HackerWatch** — A sleek, intuitive Hacker News client for watchOS — the tech community, right from your wrist. → [App Store](https://apps.apple.com/us/app/hackerwatch-hacker-news/id6479969061)
+- **The Tiny Met** — Explore the Metropolitan Museum of Art from your Apple Watch, powered by The Met's open API. → [App Store](https://apps.apple.com/us/app/the-tiny-met/id6736908878)
+- **The Pocket Monster Index** — A comprehensive Pokédex for watchOS, crafted for quick lookups and nostalgic delight. → [TestFlight](https://testflight.apple.com/join/2L4JpLEW)
 
-Here are some ideas to get you started:
+### 🌐 Local-first web
 
-- 🔭 I’m currently working on: today - a kanban board whose contents reset everyday.
-- 🌱 I’m currently learning: Three.js + Flutter + Remix
-- 👯 I’m looking to collaborate on: open source projects or technologies to help people.
-- 💬 Ask me about: Computer Science, Native/Cross-Platform Mobile Development, DevSecOps, Full Stack Web Development, Microcontrollers, CLI tooling
-- I talk about stuff at: dakota.codes
-- 📫 How to reach me: keybase details here 
-- ⚡ Fun fact: I collect old cameras of all types. My oldest camera is from 1927. Almost 100 years old!
--->
+- **The Big Idea** — A free, local-first productivity suite in the browser: tasks, notes, RAG search on your PDFs, and more. No accounts, no tracking — just you. → [thebigidea.app](https://www.thebigidea.app/)
+- **[nearstack](https://github.com/GhostScientist/nearstack)** — The privacy-first, zero-server, full-stack-in-the-browser framework.
+- **Daily Quest** — Free habit tracking. Local-first, with optional cloud sync. → [habit.software](https://habit.software)
+
+## Recent writing
+
+<!-- BLOG-POST-LIST:START -->
+- Fresh posts from [dakota.codes](https://dakota.codes) land here automatically.
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Always happy to collaborate on open source, agents, or anything watch-shaped — say hi on [LinkedIn](https://www.linkedin.com/in/dakota-kim/) or at [dakotakim.com](https://www.dakotakim.com).
+
+⚡ Fun fact: I collect old cameras. My oldest is from 1927 — nearly a century of shutters.
