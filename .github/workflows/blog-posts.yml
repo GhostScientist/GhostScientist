@@ -27,6 +27,10 @@ jobs:
           done
           echo "::warning::No RSS/Atom feed found at dakota.codes — skipping README update."
 
+      - name: Checkout
+        if: steps.feed.outputs.url != ''
+        uses: actions/checkout@v4
+
       - name: Pull latest posts into README
         if: steps.feed.outputs.url != ''
         uses: gautamkrishnar/blog-post-workflow@v1
