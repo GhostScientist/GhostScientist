@@ -46,7 +46,11 @@ I work across three threads, and the interesting stuff usually happens where the
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- Fresh posts from [dakota.codes](https://dakota.codes) land here automatically.
+- [Untitled](https://dakota.codes/blog/what-is-a-vision-language-action-model)
+- [Untitled](https://dakota.codes/blog/making-an-in-browser-rag-pipeline)
+- [Untitled](https://dakota.codes/blog/quantize-your-first-model)
+- [Untitled](https://dakota.codes/blog/robotic-trigonemtry)
+- [Untitled](https://dakota.codes/blog/how-do-we-know-if-its-working)
 <!-- BLOG-POST-LIST:END -->
 
 ---
