@@ -27,7 +27,6 @@ I work across three threads, and the interesting stuff usually happens where the
 - **[build-an-agent](https://github.com/GhostScientist/build-an-agent)** — Step right up! Build your own agent. An interactive workshop, also available as an npx package. → [buildanagentworkshop.com](https://www.buildanagentworkshop.com)
 - **[semanticwiki](https://github.com/GhostScientist/semanticwiki)** — An architectural-wiki-generating agent that helps document codebases. → [npm](https://www.npmjs.com/package/semanticwiki)
 - **[claude-agents-sdk-swift](https://github.com/GhostScientist/claude-agents-sdk-swift)** — The Claude Agent SDK in Swift — bringing agents to Apple platforms.
-- **[openclaw](https://github.com/GhostScientist/openclaw)** — Your own personal AI assistant. Any OS. Any platform. The lobster way. 🦞
 - **[skills](https://github.com/GhostScientist/skills)** — A repository of agent skills for extending AI agent capabilities.
 - **The Knowledge Department** — Coming soon. <!-- TODO(Dakota): add link + one-line description -->
 
@@ -46,7 +45,7 @@ I work across three threads, and the interesting stuff usually happens where the
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Models, Real Value: A Practical Guide for Enterprise Teams](https://dakota.codes/blog/open-models)
+- [Open Models Real Value A Practical Guide for Enterprise Teams](https://dakota.codes/blog/open-models)
 - [Visual Timers](https://dakota.codes/blog/visual-timers)
 - [Sometimes, Production Is You](https://dakota.codes/blog/sometimes-production-is-you)
 - [Build How You Want](https://dakota.codes/blog/do-what-you-want)
