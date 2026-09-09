@@ -45,11 +45,11 @@ I work across three threads, and the interesting stuff usually happens where the
 ## Recent writing
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Models Real Value A Practical Guide for Enterprise Teams](https://dakota.codes/blog/open-models)
+- [Hello from my BYOK](https://dakota.codes/blog/hello-from-my-byok)
+- [Open Models, Real Value: A Practical Guide for Enterprise Teams](https://dakota.codes/blog/open-models)
 - [Visual Timers](https://dakota.codes/blog/visual-timers)
 - [Sometimes, Production Is You](https://dakota.codes/blog/sometimes-production-is-you)
 - [Build How You Want](https://dakota.codes/blog/do-what-you-want)
-- [How to Run C on an Apple Device &lpar;And Why You&#39;d Want To&rpar;](https://dakota.codes/blog/how-to-run-c-code-on-an-apple-device)
 <!-- BLOG-POST-LIST:END -->
 
 ---
